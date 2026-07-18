@@ -80,7 +80,7 @@ The goal is to demonstrate the theoretical foundation of the EM algorithm and it
 ### Running the Program
 
 ### Method 1: Run the Complete Script
-
+```bash
 Rscript gmm_em_algorithm.R
 Method 2: Run in R Console
 Open R or RStudio
@@ -179,7 +179,7 @@ Summary Statistics:
   - Final Log-Likelihood: -671.054 
   - Accuracy: 100 %
 
-
+ ```
 ## OUTPUT
 
 DATASET
