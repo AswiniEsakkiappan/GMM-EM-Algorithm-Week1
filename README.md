@@ -40,7 +40,7 @@ The goal is to demonstrate the theoretical foundation of the EM algorithm and it
 
 ### Running the Program
 
-#### Method 1: Run the Complete Script
+### Method 1: Run the Complete Script
 ```bash
 Rscript gmm_em_algorithm.R
 Method 2: Run in R Console
@@ -139,3 +139,19 @@ Summary Statistics:
   - Iterations until convergence: 3 
   - Final Log-Likelihood: -671.054 
   - Accuracy: 100 %
+
+
+##### Output
+
+DATASET
+<img width="800" height="600" alt="dataset" src="https://github.com/user-attachments/assets/78f3c1a8-3808-42ba-a187-9e0f000d53da" />
+
+FINAL_CLUSTOR
+<img width="800" height="600" alt="final_clusters" src="https://github.com/user-attachments/assets/63b03d67-c916-4294-834b-cd566af793dc" />
+
+LOG_LIKELIHOOD
+<img width="800" height="600" alt="log_likelihood" src="https://github.com/user-attachments/assets/c7c0a5fe-7b11-4f19-9a62-23e606c5dc1b" />
+
+TRUE_VS_ESTIMATED
+<img width="1000" height="500" alt="true_vs_estimated" src="https://github.com/user-attachments/assets/97c0f29b-9b31-4b2c-9465-2737061d9485" />
+
